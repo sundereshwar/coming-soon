@@ -10,6 +10,3 @@ Responsive Design
 Upcoming Features:
 More Multi Browser Support,
 Documentation
-
-[Demo](http://yc.github.io/coming-soon/)
-![alt tag](image/scr.png)
